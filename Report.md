@@ -17,4 +17,7 @@ learning rate of the actor |0.0001
 learning rate of the critic |0.001
 
 ## Rewards of episodes
-![Rewards](1)
+![](https://github.com/ShamCondor/double-jointed_arm_continuous/blob/master/image/Rewards.png)
+
+## Future Work
+Trying other algorithms like PPO, A3C or D4PG
